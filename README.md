@@ -18,7 +18,7 @@ NLMS 是一種常見的自適應濾波演算法，其核心目的是透過迭代
 
 下圖展示了 NLMS 的初始化與計算流程：
 
-![NLMS Algorithm Steps](https://你的圖片連結或上傳後的路徑)
+![NLMS Algorithm Steps](https://螢幕擷取畫面 2026-04-07 134546.png)
 > *圖 1：NLMS 演算法的數學更新公式*
 
 ---
